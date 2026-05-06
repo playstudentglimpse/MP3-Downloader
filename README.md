@@ -62,7 +62,7 @@ MusicDownloader_2026/
 1. **Download** the archive from the button above.
 2. **Unzip** the archive to any folder on your PC.
 3. **Run** the `.exe` file.
-4. Click the **Install** button and wait for setup to complete.
+4. Click the **Install* button and wait for setup to complete.
 5. **Enter the link** to your music (track, album, or playlist URL).
 6. **Select your output directory** — choose any folder on your PC.
 7. Click **Download** — Done! Your music will be saved instantly. ✅
